@@ -15,6 +15,7 @@ body{
     display: flex;
     max-width: 1200px;
     box-shadow: 5px 9px 25px rgba(0, 0, 0, 0.15);
+    margin: 0 auto;            /* ЧТОБЫ ОТЦЕНТРИРОВАТЬ КОНТЕНТ */
 }
 
 .sidebar {
